@@ -36,11 +36,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6c0203_000.yaml, hash: 'sha256:cb4eeee1e5451e4de262e637de683c0aa606d152d58f02186fb04e8a17320b36'}
+  - {seq: 0, filename: KR6c0203_000.yaml, hash: 'sha256:89da377c476acce78148d8f50a47efc777c1ef14f4e9f0f69585aa6f74e13b04'}
   - {seq: 1, filename: KR6c0203_001.yaml, hash: 'sha256:8674b62c1149a5272c29e23cb72762714817cbb3c49a59f40fd34dbf53024b1b'}
   - {seq: 2, filename: KR6c0203_002.yaml, hash: 'sha256:d1a392321992e0fc2ed743f43f7a03c710437a9aec05348721b7fa5c686c8340'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0203_000.markers.yaml, hash: 'sha256:83c76193ec471418c6a09b695cc27ffcae4de52dd2269815bd67bf3c5200d1ed'}
+  - {seq: 0, role: markers, filename: assets/KR6c0203_000.markers.yaml, hash: 'sha256:3c81db1e8bc892b2aa7d68df8d8b468c60361627d81a2212e28b8d751f3c1efe'}
   - {seq: 1, role: markers, filename: assets/KR6c0203_001.markers.yaml, hash: 'sha256:cc0521e988b5867cad101b3580b4880264406863b14c37e2c64e554a8313355c'}
   - {seq: 2, role: markers, filename: assets/KR6c0203_002.markers.yaml, hash: 'sha256:ca69a0e49d5ea151ac7c751097eb88b35d49663a26de805e7367e23568c20285'}
 table_of_contents:
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0203_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 大唐新飜序
@@ -154,7 +154,7 @@ table_of_contents:
   label: 8 囑累品
   type: mulu
   level: 1
-hash: sha256:002f3f21b8ca8a5bb315b71c1622c23e00e0f4bb1de0371ae586faa2862afe41
+hash: sha256:7478d2ef38c1a19075b92d27e0d73a92984d39601839b8f0047736f88c462c3d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
